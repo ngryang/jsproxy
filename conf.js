@@ -37,6 +37,7 @@ jsproxy_config({
       label: '',
       hidden: true,
       lines: {
+        'silent-scene-4be9.ngjsproxy.workers.dev/': 1,
         // 收费版（高权重）
         //'node-cfworker-2.etherdream.com': 4,
 
